@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Floor Essence & Remodel",
+    "phone": "+14405210040",
+    "category": "flooring contractor",
+    "city": "Cleveland",
+    "state": "OH"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Cleveland's Flooring Authority",
+      "heroSubline": "Durable floors, expertly installed. Serving Cleveland and surrounding areas with pride.",
+      "aboutTitle": "Crafting Floors, Building Trust",
+      "aboutText": [
+        "Floor Essence & Remodel started with a simple goal: to provide Cleveland homeowners with flooring solutions that last. We're not just installers; we're craftsmen dedicated to quality and precision.",
+        "Our approach is straightforward: understand your needs, offer transparent pricing, and deliver impeccable results. We value honesty and integrity in every project, big or small.",
+        "We're proud to be a part of the Cleveland community. We source materials locally whenever possible and actively support local initiatives. Our commitment extends beyond flooring; it's about investing in the city we call home."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precision and durability are our priority. We ensure your floors are installed correctly, the first time."
+        },
+        {
+          "title": "Wide Selection",
+          "description": "From hardwood to tile, we offer a diverse range of flooring options to match your style and budget."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Understanding Cleveland's climate and housing styles allows us to recommend the best flooring solutions for your home."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises. We provide clear, upfront pricing so you know exactly what to expect."
+        }
+      ],
+      "ctaHeadline": "Transform Your Floors Today",
+      "ctaSubline": "Get a free estimate and discover the difference quality flooring can make."
+    },
+    "services": [
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring",
+        "shortDescription": "Timeless elegance and lasting value for your Cleveland home.",
+        "description": "Hardwood flooring adds warmth and sophistication to any space. We specialize in the installation, repair, and refinishing of hardwood floors throughout Cleveland. Given Cleveland's freeze-thaw cycles, proper subfloor preparation and acclimation are crucial for hardwood longevity. We handle everything from selecting the right wood type to ensuring a flawless finish. We work with solid hardwood, engineered hardwood, and even reclaimed options, catering to both modern and traditional aesthetics. Our team is experienced in dealing with the unique challenges presented by older Cleveland homes, including uneven subfloors and moisture issues. We also offer dustless sanding and refinishing to restore your existing hardwood floors to their former glory. Considering the wear and tear from Cleveland winters, we recommend durable finishes that can withstand heavy foot traffic and protect against scratches and spills.",
+        "process": [
+          "Step 1: Consultation and assessment of your space and needs.",
+          "Step 2: Selection of hardwood type, finish, and installation method.",
+          "Step 3: Subfloor preparation to ensure a level and stable base.",
+          "Step 4: Professional installation with attention to detail and precision."
+        ],
+        "benefits": [
+          "Increases home value",
+          "Adds warmth and character",
+          "Durable and long-lasting",
+          "Environmentally friendly options available"
+        ],
+        "faq": [
+          {
+            "question": "What type of hardwood is best for Cleveland's climate?",
+            "answer": "Engineered hardwood is often recommended due to its stability in fluctuating humidity levels. It resists warping and cupping better than solid hardwood."
+          },
+          {
+            "question": "How long does hardwood flooring installation take?",
+            "answer": "The duration depends on the size of the area and the complexity of the installation. Most residential projects take between 2-5 days."
+          },
+          {
+            "question": "Can you refinish my existing hardwood floors?",
+            "answer": "Yes, we offer dustless sanding and refinishing services to restore your hardwood floors to their original beauty. This process can remove scratches, dents, and discoloration."
+          }
+        ]
+      },
+      {
+        "slug": "tile-flooring",
+        "name": "Tile Flooring",
+        "shortDescription": "Durable, stylish, and easy-to-maintain tile solutions for any room.",
+        "description": "Tile flooring is a versatile and practical choice for kitchens, bathrooms, and other high-traffic areas in Cleveland homes. We offer a wide selection of ceramic, porcelain, and natural stone tiles to suit any style and budget. From classic subway tiles to intricate mosaics, we can create a custom look that reflects your personality. Given Cleveland's cold winters and damp summers, selecting the right tile and grout is crucial for long-term performance. We recommend porcelain tile for its durability and water resistance, especially in bathrooms and entryways prone to snow and salt exposure. Our experienced installers ensure proper waterproofing and sealing to prevent moisture damage and mold growth. We also offer heated flooring options for added comfort during those chilly Cleveland winters. Whether you're renovating your kitchen in Tremont or updating your bathroom in Ohio City, we have the expertise to deliver exceptional results.",
+        "process": [
+          "Step 1: Design consultation and tile selection.",
+          "Step 2: Subfloor preparation and leveling.",
+          "Step 3: Precise tile installation with attention to grout lines.",
+          "Step 4: Sealing and finishing for long-lasting protection."
+        ],
+        "benefits": [
+          "Water-resistant and easy to clean",
+          "Wide range of styles and colors",
+          "Durable and long-lasting",
+          "Increases home value"
+        ],
+        "faq": [
+          {
+            "question": "What's the difference between ceramic and porcelain tile?",
+            "answer": "Porcelain tile is denser and more water-resistant than ceramic tile, making it a better choice for high-moisture areas like bathrooms and entryways."
+          },
+          {
+            "question": "Can you install tile over existing flooring?",
+            "answer": "In some cases, yes. However, we'll need to assess the existing floor to ensure it's level, stable, and properly prepared to support the new tile."
+          },
+          {
+            "question": "How do I clean and maintain my tile floors?",
+            "answer": "Regular sweeping and mopping with a pH-neutral cleaner is usually sufficient. Avoid using abrasive cleaners that can damage the grout."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring",
+        "shortDescription": "Affordable and stylish flooring that mimics the look of hardwood or tile.",
+        "description": "Laminate flooring is a cost-effective and durable alternative to hardwood or tile, perfect for budget-conscious Cleveland homeowners. We offer a variety of laminate styles that mimic the look of natural materials, including wood, stone, and tile. Laminate is easy to install and maintain, making it a popular choice for DIY projects and rental properties. While laminate is water-resistant, it's not waterproof, so it's best suited for areas with low moisture exposure. We carefully install a moisture barrier during installation to help combat Cleveland's humid summers. With proper care, laminate flooring can provide years of beauty and functionality at a fraction of the cost of hardwood or tile.",
+        "process": [
+          "Step 1: Subfloor inspection and preparation.",
+          "Step 2: Installation of moisture barrier.",
+          "Step 3: Precise laminate flooring installation.",
+          "Step 4: Finishing touches and cleanup."
+        ],
+        "benefits": [
+          "Affordable and budget-friendly",
+          "Easy to install and maintain",
+          "Scratch-resistant and durable",
+          "Wide range of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "No, laminate flooring is water-resistant, not waterproof. It's best to avoid using it in areas with high moisture exposure, such as bathrooms or laundry rooms."
+          },
+          {
+            "question": "How do I clean laminate flooring?",
+            "answer": "Use a damp mop and a pH-neutral cleaner specifically designed for laminate floors. Avoid using excessive water, which can seep into the seams and damage the flooring."
+          },
+          {
+            "question": "Can I install laminate flooring myself?",
+            "answer": "Yes, laminate flooring is relatively easy to install as a DIY project. However, it's important to follow the manufacturer's instructions carefully to ensure a proper installation."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring",
+        "shortDescription": "Waterproof and resilient flooring ideal for kitchens, bathrooms, and basements.",
+        "description": "Vinyl flooring is a practical and versatile choice for Cleveland homes, especially in areas prone to moisture, such as kitchens, bathrooms, and basements. We offer a wide range of vinyl options, including sheet vinyl, vinyl tile, and luxury vinyl plank (LVP). Vinyl is waterproof, easy to clean, and resistant to scratches and stains, making it a great choice for families with pets or young children. Because many Cleveland homes have basements prone to flooding, vinyl is a great choice. Luxury vinyl plank offers the look and feel of hardwood with the added benefits of waterproof performance and easy maintenance. Our experienced installers ensure proper subfloor preparation and seamless installation for long-lasting beauty and functionality.",
+        "process": [
+          "Step 1: Subfloor inspection and preparation.",
+          "Step 2: Precise cutting and fitting of vinyl flooring.",
+          "Step 3: Secure installation with adhesive or click-lock system.",
+          "Step 4: Sealing and finishing for added protection."
+        ],
+        "benefits": [
+          "Waterproof and moisture-resistant",
+          "Easy to clean and maintain",
+          "Durable and long-lasting",
+          "Wide range of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for basements?",
+            "answer": "Yes, vinyl flooring is an excellent choice for basements because it's waterproof and resistant to moisture damage."
+          },
+          {
+            "question": "How do I clean vinyl flooring?",
+            "answer": "Sweep or vacuum regularly to remove dirt and debris. Mop with a damp mop and a mild detergent as needed."
+          },
+          {
+            "question": "What is luxury vinyl plank (LVP)?",
+            "answer": "Luxury vinyl plank is a type of vinyl flooring that mimics the look of hardwood. It's waterproof, durable, and easy to install, making it a popular choice for homeowners."
+          }
+        ]
+      },
+      {
+        "slug": "floor-repair",
+        "name": "Floor Repair & Restoration",
+        "shortDescription": "Expert repairs to restore your floors to their original beauty and functionality.",
+        "description": "From water damage to scratches and dents, we offer comprehensive floor repair and restoration services throughout Cleveland. We understand the unique challenges that Cleveland's climate and older housing stock can present to flooring. Whether you have damaged hardwood, cracked tile, or worn-out laminate, we can assess the damage and recommend the best course of action. Our skilled craftsmen use quality materials and techniques to restore your floors to their original beauty and functionality. We can repair or replace damaged boards, fill cracks and gaps, and refinish surfaces to create a seamless and durable repair. We also offer water damage restoration services to prevent mold growth and further damage to your home. Don't replace your floors – restore them with Floor Essence & Remodel.",
+        "process": [
+          "Step 1: Thorough assessment of the damage.",
+          "Step 2: Repair or replacement of damaged flooring materials.",
+          "Step 3: Refinishing or sealing to blend the repair with the existing floor.",
+          "Step 4: Final inspection and cleanup."
+        ],
+        "benefits": [
+          "Extends the life of your floors",
+          "Restores beauty and functionality",
+          "Prevents further damage",
+          "Cost-effective alternative to replacement"
+        ],
+        "faq": [
+          {
+            "question": "Can you repair water-damaged hardwood floors?",
+            "answer": "Yes, we can repair water-damaged hardwood floors. However, the extent of the damage will determine the best course of action, which may involve replacing some boards."
+          },
+          {
+            "question": "How do I prevent water damage to my floors?",
+            "answer": "Address leaks promptly, use mats and rugs in high-traffic areas, and consider installing a dehumidifier in basements."
+          },
+          {
+            "question": "Do you offer emergency floor repair services?",
+            "answer": "Yes, we offer emergency floor repair services for situations like water damage or structural issues. Contact us immediately, and we'll respond as soon as possible."
+          }
+        ]
+      },
+      {
+        "slug": "subfloor-services",
+        "name": "Subfloor Installation & Repair",
+        "shortDescription": "Ensuring a stable and level foundation for your new or existing floors.",
+        "description": "A solid subfloor is essential for the longevity and performance of any flooring system. We provide expert subfloor installation and repair services throughout Cleveland, addressing issues such as unevenness, moisture damage, and structural weaknesses. Many older homes in neighborhoods like Tremont and Ohio City have subfloors that need attention before new flooring can be installed. We use quality materials and proven techniques to create a stable and level foundation for your new or existing floors. We can repair or replace damaged subfloor panels, level uneven surfaces, and install moisture barriers to prevent future problems. Don't compromise on the foundation of your floors – trust Floor Essence & Remodel for expert subfloor services.",
+        "process": [
+          "Step 1: Thorough inspection of the existing subfloor.",
+          "Step 2: Repair or replacement of damaged subfloor panels.",
+          "Step 3: Leveling and smoothing of the subfloor surface.",
+          "Step 4: Installation of moisture barrier (if needed)."
+        ],
+        "benefits": [
+          "Ensures a stable and level flooring surface",
+          "Extends the life of your floors",
+          "Prevents moisture damage",
+          "Improves the overall appearance of your floors"
+        ],
+        "faq": [
+          {
+            "question": "Why is subfloor preparation important?",
+            "answer": "A properly prepared subfloor ensures that your new flooring is level, stable, and less likely to develop problems like squeaks, cracks, or uneven wear."
+          },
+          {
+            "question": "How do I know if my subfloor needs repair?",
+            "answer": "Signs of subfloor problems include unevenness, squeaks, spongy spots, and visible damage like cracks or water stains."
+          },
+          {
+            "question": "Can you install a heated subfloor?",
+            "answer": "Yes, we can install a heated subfloor system for added comfort and warmth, especially in bathrooms and kitchens."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Cleveland",
+        "slug": "cleveland-oh",
+        "state": "OH",
+        "content": "Floor Essence & Remodel is proud to offer comprehensive flooring services to the residents and businesses of Cleveland, Ohio. From hardwood refinishing to new tile installation, our experienced team is dedicated to providing top-quality craftsmanship and exceptional customer service. We understand the unique needs of Cleveland homes and businesses, and we're committed to helping you find the perfect flooring solutions to enhance your space.\n\nWhether you're looking to update your kitchen, bathroom, or entire home, Floor Essence & Remodel has the expertise and resources to get the job done right. We offer a wide selection of flooring materials, including hardwood, tile, laminate, vinyl, and carpet, and we'll work with you to find the perfect style and design to match your taste and budget. We're committed to providing quality flooring installation and repair services to Cleveland, Ohio.",
+        "localContext": "Cleveland, a major city in Ohio, sits on the banks of Lake Erie. Known for its vibrant arts and culture scene, diverse neighborhoods, and historical landmarks, Cleveland offers a unique blend of urban living and Midwestern charm.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Parma",
+          "Shaker Heights"
+        ]
+      },
+      {
+        "city": "Lakewood",
+        "slug": "lakewood-oh",
+        "state": "OH",
+        "content": "Floor Essence & Remodel extends its premier flooring services to Lakewood, Ohio, a vibrant and historic suburb of Cleveland. We understand the architectural diversity of Lakewood, from its charming Victorian homes to its modern apartments, and we tailor our services to meet the specific needs of each property. Whether you're renovating a historic home or updating a contemporary space, we have the perfect flooring solutions for you.\n\nOur team is dedicated to providing Lakewood residents with exceptional flooring installation and repair services. We offer a wide range of flooring options, including hardwood, tile, laminate, and vinyl, and we're committed to helping you find the perfect style and design to enhance your home. We're proud to serve the Lakewood community and look forward to helping you create the beautiful and functional floors you've always dreamed of.",
+        "localContext": "Lakewood, Ohio, is a vibrant city known for its beautiful parks, diverse community, and thriving arts scene. Situated on the shores of Lake Erie, Lakewood offers residents a mix of urban amenities and suburban charm.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Rocky River",
+          "Cleveland Heights"
+        ]
+      },
+      {
+        "city": "Parma",
+        "slug": "parma-oh",
+        "state": "OH",
+        "content": "Floor Essence & Remodel is pleased to offer its flooring expertise to the residents of Parma, Ohio. As a leading flooring contractor in the Greater Cleveland area, we are committed to providing Parma homeowners with high-quality flooring solutions and exceptional customer service. We understand the importance of having beautiful and durable floors in your home, and we're dedicated to helping you achieve your flooring goals.\n\nWhether you're looking to replace your old carpets with new hardwood floors or update your kitchen with stylish tile, Floor Essence & Remodel has the experience and resources to get the job done right. We offer a wide selection of flooring materials, and we'll work closely with you to find the perfect style and design to match your taste and budget. We are dedicated to providing high-quality flooring services to Parma, Ohio.",
+        "localContext": "Parma, Ohio, is a large suburb of Cleveland known for its residential neighborhoods, numerous parks, and strong community spirit. With its convenient location and family-friendly atmosphere, Parma is a popular place to call home.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Brooklyn",
+          "Seven Hills"
+        ]
+      },
+      {
+        "city": "Strongsville",
+        "slug": "strongsville-oh",
+        "state": "OH",
+        "content": "Floor Essence & Remodel is proud to serve the Strongsville, Ohio community with top-notch flooring installation and repair services. We understand that Strongsville homeowners value quality and durability, and we are committed to providing flooring solutions that meet those needs. From classic hardwood to modern tile, we offer a wide range of options to enhance your home's aesthetics and functionality.\n\nOur experienced team is dedicated to providing Strongsville residents with exceptional customer service and expert craftsmanship. We'll work closely with you to understand your vision and help you choose the perfect flooring materials to match your style and budget. We are committed to providing excellent quality flooring services to Strongsville, Ohio.",
+        "localContext": "Strongsville, Ohio, is a vibrant suburb of Cleveland known for its excellent schools, family-friendly atmosphere, and thriving business community. With its convenient location and numerous amenities, Strongsville offers residents a high quality of life.",
+        "nearbyAreas": [
+          "North Royalton",
+          "Brunswick",
+          "Middleburg Heights"
+        ]
+      },
+      {
+        "city": "Westlake",
+        "slug": "westlake-oh",
+        "state": "OH",
+        "content": "Floor Essence & Remodel is delighted to offer our professional flooring services to the residents and businesses of Westlake, Ohio. We understand the unique character of Westlake, from its upscale neighborhoods to its thriving commercial areas, and we tailor our services to meet the specific needs of each client. Whether you're looking to enhance your home with elegant hardwood floors or create a welcoming atmosphere in your business with stylish carpet, we have the perfect flooring solutions for you.\n\nOur team is committed to providing Westlake residents with exceptional customer service and expert craftsmanship. We offer a wide range of flooring options, including hardwood, tile, laminate, vinyl, and carpet, and we'll work closely with you to find the perfect style and design to match your taste and budget. We provide quality flooring installation and repair to Westlake, Ohio.",
+        "localContext": "Westlake, Ohio, is an affluent suburb of Cleveland known for its excellent schools, upscale shopping centers, and beautiful residential areas. With its convenient location and numerous amenities, Westlake offers residents a high quality of life.",
+        "nearbyAreas": [
+          "Bay Village",
+          "Rocky River",
+          "North Olmsted"
+        ]
+      },
+      {
+        "city": "North Olmsted",
+        "slug": "north-olmsted-oh",
+        "state": "OH",
+        "content": "Floor Essence & Remodel is proud to provide North Olmsted, Ohio, with top-tier flooring services. We understand that North Olmsted residents appreciate quality and value, and we are committed to delivering both. Whether you're renovating your home or updating your business, we offer a wide range of flooring options to suit your needs and budget.\n\nOur experienced team is dedicated to providing North Olmsted customers with exceptional service and expert craftsmanship. We'll work closely with you to understand your vision and help you choose the perfect flooring materials to create the space you've always dreamed of. We are committed to providing quality flooring to North Olmsted, Ohio.",
+        "localContext": "North Olmsted, Ohio, is a vibrant suburb of Cleveland known for its excellent shopping centers, diverse community, and convenient location. With its numerous amenities and family-friendly atmosphere, North Olmsted is a popular place to call home.",
+        "nearbyAreas": [
+          "Fairview Park",
+          "Westlake",
+          "Olmsted Falls"
+        ]
+      },
+      {
+        "city": "Mayfield Heights",
+        "slug": "mayfield-heights-oh",
+        "state": "OH",
+        "content": "Floor Essence & Remodel is pleased to offer our comprehensive flooring services to the residents and businesses of Mayfield Heights, Ohio. We understand the diverse needs of the Mayfield Heights community, from its residential neighborhoods to its commercial districts, and we tailor our services to meet the specific requirements of each client. Whether you're looking to update your home with stylish new floors or create a professional atmosphere in your business with durable and attractive flooring, we have the perfect solutions for you.\n\nOur team is dedicated to providing Mayfield Heights residents with exceptional customer service and expert craftsmanship. We offer a wide range of flooring options, including hardwood, tile, laminate, vinyl, and carpet, and we'll work closely with you to find the perfect style and design to match your taste and budget. We are here for flooring installation and repair in Mayfield Heights, Ohio.",
+        "localContext": "Mayfield Heights, Ohio, is a thriving suburb of Cleveland known for its excellent schools, diverse community, and convenient location. With its numerous amenities and family-friendly atmosphere, Mayfield Heights offers residents a high quality of life.",
+        "nearbyAreas": [
+          "Lyndhurst",
+          "Highland Heights",
+          "South Euclid"
+        ]
+      },
+      {
+        "city": "Independence",
+        "slug": "independence-oh",
+        "state": "OH",
+        "content": "Floor Essence & Remodel is delighted to extend its flooring services to the community of Independence, Ohio. We recognize the unique blend of residential and commercial properties in Independence, and we tailor our services to meet the specific needs of each client. From cozy homes to bustling businesses, we offer a wide range of flooring solutions to enhance any space.\n\nOur team is committed to providing Independence residents with exceptional customer service and expert craftsmanship. Whether you're looking to upgrade your home with elegant hardwood floors or create a welcoming atmosphere in your business with durable and stylish carpeting, we have the perfect options for you. We are dedicated to providing excellent service in Independence, Ohio.",
+        "localContext": "Independence, Ohio, is a city known for its blend of residential neighborhoods, commercial centers, and scenic parks. With its convenient location and strong community spirit, Independence offers residents a balanced and fulfilling lifestyle.",
+        "nearbyAreas": [
+          "Valley View",
+          "Seven Hills",
+          "Brecksville"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alice K.",
+        "rating": 5,
+        "service": "Hardwood Flooring Installation",
+        "text": "Floor Essence & Remodel did an amazing job installing our new hardwood floors. The team was professional, efficient, and the floors look absolutely beautiful. They were very careful with our belongings and cleaned up thoroughly after the job. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 4,
+        "service": "Tile Flooring Installation",
+        "text": "We hired Floor Essence & Remodel to install tile in our kitchen, and we're very happy with the results. There was a small delay due to a supplier issue, but they communicated clearly and kept us informed throughout the process. The tile work is excellent.",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Laminate Flooring",
+        "text": "Great experience with Floor Essence & Remodel! They installed laminate flooring in our basement, and it looks fantastic. The price was very reasonable, and they finished the job quickly and efficiently. I would definitely use them again.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Floor Repair",
+        "text": "Floor Essence & Remodel saved us a ton of money by repairing our damaged hardwood floors instead of replacing them. They matched the stain perfectly, and you can't even tell there was ever any damage. Excellent work!",
+        "date": "2024-08-10"
+      },
+      {
+        "name": "Jennifer S.",
+        "rating": 4,
+        "service": "Vinyl Flooring Installation",
+        "text": "We had Floor Essence & Remodel install vinyl flooring in our bathroom. The installation was quick and professional, and the floor looks great. My only complaint is that it took a little longer to get a quote than I expected, but once the job was scheduled, everything went smoothly.",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Subfloor Repair",
+        "text": "After discovering some water damage, Floor Essence & Remodel did an outstanding job repairing our subfloor. They were thorough, explained everything clearly, and made sure the new flooring was perfectly level. Highly recommend them for any flooring needs!",
+        "date": "2024-06-20"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Floor Essence & Remodel | Cleveland Flooring",
+        "description": "Expert flooring contractor in Cleveland, OH. Hardwood, tile, laminate, vinyl. Installation, repair, restoration. Free quotes!"
+      },
+      "about": {
+        "title": "About Floor Essence & Remodel | Cleveland, OH",
+        "description": "Learn about Floor Essence & Remodel's commitment to quality flooring and customer satisfaction in Cleveland, Ohio."
+      },
+      "services": {
+        "title": "Flooring Services | Cleveland, OH | Floor Essence",
+        "description": "Comprehensive flooring services in Cleveland. Hardwood, tile, laminate, vinyl installation, repair, and restoration."
+      },
+      "contact": {
+        "title": "Contact Floor Essence | Cleveland Flooring Experts",
+        "description": "Contact Floor Essence & Remodel for a free flooring estimate in Cleveland, OH. Call +14405210040 today."
+      },
+      "reviews": {
+        "title": "Floor Essence & Remodel Reviews | Cleveland, OH",
+        "description": "Read reviews from satisfied Floor Essence & Remodel customers in Cleveland, OH. Quality flooring installation and repair."
+      },
+      "service-areas": {
+        "title": "Floor Essence Service Areas | Cleveland Flooring",
+        "description": "Floor Essence & Remodel provides flooring services in Cleveland and surrounding areas. Contact us for service in your city."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "tile-flooring": "/images/service-tile-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "floor-repair": "/images/service-floor-repair.webp",
+      "subfloor-services": "/images/service-subfloor-services.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-flooring": {
+        "src": "/images/service-tile-flooring.webp",
+        "srcset": "/images/service-tile-flooring-400w.webp 400w, /images/service-tile-flooring-800w.webp 800w, /images/service-tile-flooring-1200w.webp 1200w, /images/service-tile-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "floor-repair": {
+        "src": "/images/service-floor-repair.webp",
+        "srcset": "/images/service-floor-repair-400w.webp 400w, /images/service-floor-repair-800w.webp 800w, /images/service-floor-repair-1200w.webp 1200w, /images/service-floor-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "subfloor-services": {
+        "src": "/images/service-subfloor-services.webp",
+        "srcset": "/images/service-subfloor-services-400w.webp 400w, /images/service-subfloor-services-800w.webp 800w, /images/service-subfloor-services-1200w.webp 1200w, /images/service-subfloor-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
